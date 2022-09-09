@@ -1,20 +1,23 @@
-# Welcome to ev's [README.md](README.md)
+# welcome to ev's [README.md](README.md)
 # 
 
-A brief description of what this project does and who it's for
+made this bc i was told to
 
+![logo](https://pbs.twimg.com/media/FXuGE5OVUAIlHvu?format=jpg&name=small)
 
-## Appendix
+## art
 
-Any additional information goes here
+here is a collection of some nice art on the internet that you can enjoy
 
+- [pop](https://www.youtube.com/watch?v=p9Lit7v9K4k)
+- [this is a neat blog you should check out](https://eggreport.substack.com/)
+- [15 snakes](https://www.youtube.com/watch?v=i-sn3K2L-Es&list=LL&index=16)
 
-## Lessons Learned
+#### i spend my time not on computer doing jiu jitsu and skateboarding 
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+i am not really sure what else you want me to put on here at this point
 
-
-## Usage/Examples
+## this is cool
 
 ```javascript
 import Component from 'my-project'
@@ -25,12 +28,7 @@ function App() {
 ```
 
 
-## Used By
 
-This project is used by the following companies:
-
-- Company 1
-- Company 2
 
 
 
