@@ -15,9 +15,9 @@ here is a collection of some nice art on the internet that you can enjoy
 
 #### i spend my time not on computer doing jiu jitsu and skateboarding 
 ![logo](https://pbs.twimg.com/media/FToi6_MWUAYbf8N?format=jpg&name=small)
-i am not really sure what else you want me to put on here at this point
 
 ```
+i am not really sure what else you want me to put on here at this point
 
 
 
